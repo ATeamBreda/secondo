@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <IOConfiguration version="5">
   <General>
-    <SlowTimebase>100000</SlowTimebase>
+    <SlowTimebase>10000</SlowTimebase>
     <FobMTimebase>1000</FobMTimebase>
     <PCIInterruptBusNr>0</PCIInterruptBusNr>
     <PCIInterruptSlotNr>0</PCIInterruptSlotNr>
